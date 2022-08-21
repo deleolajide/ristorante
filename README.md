@@ -13,3 +13,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 # Orders
 1. [@deleolajide](https://github.com/deleolajide) orders 4 Large Hawaiian pizza with Mushroom
 1. [@deleolajide](https://github.com/deleolajide) orders 1 Small Hawaiian pizza with Tomato
+1. [@deleolajide](https://github.com/deleolajide) orders 1 Regular BBQ Steak pizza with Olives
