@@ -11,3 +11,4 @@ A real-world example can be found in the [awesome-browser-extensions-for-github]
 Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristorante/issues/new?assignees=&labels=order&template=order-pizza.yml&title=Order+Pizza)
 
 # Orders
+1. [@deleolajide](https://github.com/deleolajide) orders 4 Large Hawaiian pizza with Mushroom
