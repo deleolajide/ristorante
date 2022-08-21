@@ -31,7 +31,7 @@ jobs:
           git config --global user.name "github-actions[bot]" && \
           git add README.md && \
           git add order.json && \          
-          git commit -m 'Place order for ${{github.event.issue.title}}' && \
+          git commit -m 'Place new order' && \
           git push
 
       - uses: peter-evans/close-issue@v1
