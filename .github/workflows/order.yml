@@ -30,7 +30,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com" && \
           git config --global user.name "github-actions[bot]" && \
           git add README.md && \
-          git commit -m 'Place order' && \
+          git add order.json && \          
+          git commit -m 'Place order for ${{github.event.issue.title}}' && \
           git push
 
       - uses: peter-evans/close-issue@v1
